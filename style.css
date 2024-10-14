@@ -466,3 +466,10 @@ align,
         /* Settle in its original position */
     }
 }
+
+html body img {
+    max-width: 37%;
+    /* padding-left: 320px; */
+    justify-self: center;
+    align-content: center;
+}
